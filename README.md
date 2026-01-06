@@ -1,2 +1,2 @@
-# ovola2avatarbase
-abaseavatar
+#Openfigavatarbase
+a base avatar for figura 
